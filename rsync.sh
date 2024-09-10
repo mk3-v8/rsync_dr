@@ -6,8 +6,8 @@
 MAX_HOURS=5 # Set the maximum number of hours allowed since the last sync                          #
 LOG_FILE="/var/log/rsync_backup.log" # Set the log file where sync times are recorded              #
 DR_SERVER="192.168.1.10" # Set the IP address or hostname of the DR server                         #
-LOCATION_SOURCE="/mnt"
-LOCATION_DIST="/mnt"
+LOCATION_SOURCE="/mnt"                                                                             #
+LOCATION_DIST="/mnt"                                                                               #
 ####################################################################################################
 
 
